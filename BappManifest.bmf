@@ -1,0 +1,13 @@
+Uuid: 9285f245f3fa49d18f77650cfcba9b3e
+ExtensionType: 1
+Name: DNS Analyzer
+RepoName: dns-analyzer
+ScreenVersion: 1.0
+SerialVersion: 2
+MinPlatformVersion: 8
+ProOnly: True
+Author: The-Login
+ShortDescription: Find DNS vulnerabilities in web applications.
+EntryPoint: build/libs/DNSAnalyzer-all-1.0.jar
+BuildCommand: ./gradlew fatJar
+SupportedProducts: Pro
