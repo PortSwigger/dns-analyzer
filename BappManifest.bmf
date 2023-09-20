@@ -3,10 +3,10 @@ ExtensionType: 1
 Name: DNS Analyzer
 RepoName: dns-analyzer
 ScreenVersion: 1.0
-SerialVersion: 2
+SerialVersion: 3
 MinPlatformVersion: 8
 ProOnly: True
-Author: The-Login
+Author: Timo Longin
 ShortDescription: Find DNS vulnerabilities in web applications.
 EntryPoint: build/libs/DNSAnalyzer-all-1.0.jar
 BuildCommand: ./gradlew fatJar
